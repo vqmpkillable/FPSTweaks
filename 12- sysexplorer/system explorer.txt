@@ -1,0 +1,5 @@
+explorer.exe high 1,2, then half and +1
+
+winlogon below normal, all cores
+
+https://systemexplorer.net/

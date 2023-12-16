@@ -1,0 +1,12 @@
+fortnite three dots 
+hit options
+
+
+profile pic
+settings
+
+scroll down then paste to fortnite
+
+-LANPLAY -NOSPLASH -NOTEXTURESTREAMING -USEALLAVALIABLECORES -nomansky -limitclientticks
+
+go to install location and do fullscreen optimizations and high dpi scaling override on highest space fortnite

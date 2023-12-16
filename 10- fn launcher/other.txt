@@ -1,0 +1,18 @@
+%localappdata%
+epicgameslauncher
+saved
+config
+windows
+engine.ini
+paste this
+
+[HTTP]
+HttpTimeout=10
+HttpConnectionTimeout=10
+HttpReceiveTimeout=10
+HttpSendTimeout=10
+
+[Portal.BuildPatch]
+ChunkDownloads=3
+ChunkRetries=220
+RetryTime=0.5

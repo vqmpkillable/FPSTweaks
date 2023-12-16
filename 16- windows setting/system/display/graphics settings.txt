@@ -1,0 +1,3 @@
+hardware accel gpu sche turn off
+
+graphics perf pref set to fn

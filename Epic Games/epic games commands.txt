@@ -1,0 +1,5 @@
+-LANPLAY -NOSPLASH -NOTEXTURESTREAMING -USEALLAVALIABLECORES -nomansky -limitclientticks
+
+
+Go to epic games, then settings, then scroll down to fortnite and check the
+box saying"aditional command line arguments" and paste these.
